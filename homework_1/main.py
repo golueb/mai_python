@@ -4,6 +4,7 @@ class Animal:
     def make_sound(self):
         print(self.sound)
 
+
 cat = Animal()
 cat.color = 'white'
 cat.sound = 'meow'
